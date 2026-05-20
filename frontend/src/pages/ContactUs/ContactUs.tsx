@@ -1,5 +1,4 @@
-import React, {FC,useEffect,useState} from "react";
-import BreadCrumbs from "../../components/BreadCrumbs/BreadCrumbs";
+import { useEffect, useState, type FC } from "react";import BreadCrumbs from "../../components/BreadCrumbs/BreadCrumbs";
 import ContactMain from "../../assets/images/contact-main-img.png";
 import CallIcon from "../../assets/icons/call_icon.png";
 import TeethIcon from "../../assets/icons/teeth-shape.png";
